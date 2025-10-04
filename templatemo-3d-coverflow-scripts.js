@@ -48,7 +48,7 @@ https://templatemo.com/tm-595-3d-coverflow
                 description: "Majestic peaks covered in snow during golden hour"
             },
             {
-                title: "Forest Path",
+                title: "aws project using s3",
                 description: "A winding trail through ancient woodland"
             },
             {
@@ -380,4 +380,5 @@ https://templatemo.com/tm-595-3d-coverflow
         // Initialize
         updateCoverflow();
         container.focus();
+
         startAutoplay();
